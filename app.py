@@ -167,7 +167,7 @@ if submitted:
     )
 
     if prediction == 1:
-        st.success("Ramalan: LAYAK (YA)")
+        st.success("11Ramalan: LAYAK (YA)")
     else:
         st.warning("Ramalan: TIDAK LAYAK (TIDAK)")
 
